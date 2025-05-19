@@ -70,5 +70,11 @@
     "url": "https://geo.dailymotion.com/player.html?video=x8n6ebs&autoplay=1&muted=0&ads=0",
     "type": "dailymotion",
     "img": "https://www.maspero.eg/images/live_channels_logos/1667483899.jpg"
+  },
+  {
+    "name": "إذاعة صوت العرب",
+    "url": "https://geo.dailymotion.com/player.html?video=x8n6dqq&autoplay=1&muted=0&ads=0",
+    "type": "dailymotion",
+    "img": "https://www.maspero.eg/images/live_channels_logos/1667483813.jpg"
   }
 ]

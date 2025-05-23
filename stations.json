@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": " اذاعة الرياض راديو أم كلثوم",
     "url": "https://stream.zeno.fm/puv30d6l1bjtv",
     "type": "audio",
@@ -65,7 +65,7 @@
     "type": "audio",
     "img": "https://i0.wp.com/news.ninetiesfm.com/wp-content/uploads/2020/09/New-Project.png"
   },
-     {
+  {
     "name": "اذاعة مونت كارلو الدولية",
     "url": "https://stream.zeno.fm/511s8pa0sy8uv",
     "type": "audio",
@@ -102,15 +102,33 @@
     "img": "https://www.maspero.eg/images/live_channels_logos/1667483954.jpg"
   },
   {
-  "name": "اغاني فيروز من يوتيوب",
-  "url": "https://www.youtube.com/embed/8nX2n8UKbWA?autoplay=1",
-  "type": "youtube",
-  "img": "https://img.youtube.com/vi/8nX2n8UKbWA/0.jpg"
-},
+    "name": "اغاني فيروز من يوتيوب",
+    "url": "https://www.youtube.com/embed/8nX2n8UKbWA?autoplay=1",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/8nX2n8UKbWA/0.jpg"
+  },
   {
     "name": "اغنية لعمرو دياب Amr Diab - Amaken El Sahar",
     "url": "https://vimeo.com/451137059",
     "type": "vimeo",
     "img": "https://linkstorage.linkfire.com/medialinks/images/2eca4869-fb92-4c8a-b8b3-c6f7fb064369/artwork-440x440.jpg"
+  },
+  {
+    "name": "Edith Piaf - La foule اغنية فرنسية",
+    "url": "https://www.youtube.com/embed/Fgn8gZHJZzA?autoplay=1",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/Fgn8gZHJZzA/0.jpg"
+  },
+  {
+    "name": "اسماعيل ياسين و شكوكو - الليل الليل الى يا ميمون",
+    "url": "https://geo.dailymotion.com/player.html?video=x54dsu2&autoplay=1&muted=0&ads=0",
+    "type": "dailymotion",
+    "img": "https://www.dailymotion.com/thumbnail/video/x54dsu2"
+  },
+  {
+    "name": "Dalida - Salma Ya Salama",
+    "url": "https://player.vimeo.com/video/16603846",
+    "type": "vimeo",
+    "img": "https://allthingsfrench.com/wp-content/uploads/2017/06/Dalida.-Singer.-Icon.-Fashionista.-All-Things-French.jpg"
   }
 ]

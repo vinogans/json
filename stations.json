@@ -114,10 +114,10 @@
     "img": "https://linkstorage.linkfire.com/medialinks/images/2eca4869-fb92-4c8a-b8b3-c6f7fb064369/artwork-440x440.jpg"
   },
   {
-    "name": "Edith Piaf - La foule اغنية فرنسية",
-    "url": "https://www.youtube.com/embed/Fgn8gZHJZzA?autoplay=1",
+    "name": "Charles Aznavour - La Boheme اغنية فرنسية",
+    "url": "https://www.youtube.com/embed/hWLc0J52b2I?autoplay=1",
     "type": "youtube",
-    "img": "https://img.youtube.com/vi/Fgn8gZHJZzA/0.jpg"
+    "img": "https://img.youtube.com/vi/hWLc0J52b2I/0.jpg"
   },
   {
     "name": "اسماعيل ياسين و شكوكو - الليل الليل الى يا ميمون",
@@ -127,8 +127,20 @@
   },
   {
     "name": "Dalida - Salma Ya Salama",
-    "url": "https://player.vimeo.com/video/16603846",
+    "url": "https://vimeo.com/video/16603846",
     "type": "vimeo",
     "img": "https://allthingsfrench.com/wp-content/uploads/2017/06/Dalida.-Singer.-Icon.-Fashionista.-All-Things-French.jpg"
+  },
+  {
+    "name": "Bang Bang // Dalida",
+    "url": "https://vimeo.com/video/84472833",
+    "type": "vimeo",
+    "img": "https://allthingsfrench.com/wp-content/uploads/2017/06/Dalida.-Singer.-Icon.-Fashionista.-All-Things-French.jpg"
+  },
+  {
+    "name": "Jacques Brel - Ne me quitte pas",
+    "url": "https://www.youtube.com/embed/0k63grkip5I?autoplay=1",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/0k63grkip5I/0.jpg"
   }
 ]

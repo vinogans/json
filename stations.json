@@ -148,5 +148,11 @@
     "url": "https://www.youtube.com/embed/0k63grkip5I?autoplay=1",
     "type": "youtube",
     "img": "https://img.youtube.com/vi/0k63grkip5I/0.jpg"
+  },
+  {
+    "name": "فريد الاطرش",
+    "url": "https://www.youtube.com/embed/8V-s9LOF63c",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/8V-s9LOF63c/0.jpg"
   }
 ]

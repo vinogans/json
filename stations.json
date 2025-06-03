@@ -150,15 +150,15 @@
     "img": "https://img.youtube.com/vi/0k63grkip5I/0.jpg"
   },
   {
-    "name": "يامسافر وحدك - محمد عبد الوهاب",
-    "url": "https://www.youtube.com/embed/ELDLUXSdqKI",
-    "type": "youtube",
-    "img": "https://img.youtube.com/vi/ELDLUXSdqKI/0.jpg"
-  },
-  {
     "name": "فريد الاطرش",
     "url": "https://www.youtube.com/embed/8V-s9LOF63c",
     "type": "youtube",
     "img": "https://img.youtube.com/vi/8V-s9LOF63c/0.jpg"
+  },
+  {
+    "name": "يامسافر وحدك - محمد عبد الوهاب",
+    "url": "https://www.youtube.com/embed/ELDLUXSdqKI",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/ELDLUXSdqKI/0.jpg"
   }
 ]

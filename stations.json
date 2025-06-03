@@ -120,6 +120,12 @@
     "img": "https://img.youtube.com/vi/hWLc0J52b2I/0.jpg"
   },
   {
+    "name": "Jacques Brel - Ne me quitte pas",
+    "url": "https://www.youtube.com/embed/0k63grkip5I?autoplay=1",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/0k63grkip5I/0.jpg"
+  },
+  {
     "name": "اسماعيل ياسين و شكوكو - الليل الليل الى يا ميمون",
     "url": "https://geo.dailymotion.com/player.html?video=x54dsu2&autoplay=1&muted=0&ads=0",
     "type": "dailymotion",
@@ -142,12 +148,6 @@
     "url": "https://vimeo.com/84472833",
     "type": "vimeo",
     "img": "https://allthingsfrench.com/wp-content/uploads/2017/06/Dalida.-Singer.-Icon.-Fashionista.-All-Things-French.jpg"
-  },
-  {
-    "name": "Jacques Brel - Ne me quitte pas",
-    "url": "https://www.youtube.com/embed/0k63grkip5I?autoplay=1",
-    "type": "youtube",
-    "img": "https://img.youtube.com/vi/0k63grkip5I/0.jpg"
   },
   {
     "name": "فريد الاطرش",

@@ -12,6 +12,12 @@
     "img": "https://cdn.platinumlist.net/upload/artist/umm_kulthum_tributes_2625-orig1718025606.jpeg"
   },
   {
+    "name": "On Sport 93.7 FM",
+    "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
+    "type": "audio",
+    "img": "https://ia904601.us.archive.org/21/items/on-sport-fm-cairo-egypt-031922-2012-93.7-quran-news-and-wha/On%20Sport%20FM%20Cairo.jpg"
+  },
+  {
     "name": "شعبى اف ام 95",
     "url": "https://radio95.radioca.st/stream/1/",
     "type": "audio",
@@ -127,13 +133,13 @@
   },
   {
     "name": "Dalida - Salma Ya Salama",
-    "url": "https://vimeo.com/video/16603846",
+    "url": "https://vimeo.com/16603846",
     "type": "vimeo",
     "img": "https://allthingsfrench.com/wp-content/uploads/2017/06/Dalida.-Singer.-Icon.-Fashionista.-All-Things-French.jpg"
   },
   {
     "name": "Bang Bang // Dalida",
-    "url": "https://vimeo.com/video/84472833",
+    "url": "https://vimeo.com/84472833",
     "type": "vimeo",
     "img": "https://allthingsfrench.com/wp-content/uploads/2017/06/Dalida.-Singer.-Icon.-Fashionista.-All-Things-French.jpg"
   },
@@ -142,5 +148,17 @@
     "url": "https://www.youtube.com/embed/0k63grkip5I?autoplay=1",
     "type": "youtube",
     "img": "https://img.youtube.com/vi/0k63grkip5I/0.jpg"
+  },
+  {
+    "name": "فريد الاطرش",
+    "url": "https://www.youtube.com/embed/8V-s9LOF63c",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/8V-s9LOF63c/0.jpg"
+  },
+  {
+    "name": "يامسافر وحدك - محمد عبد الوهاب",
+    "url": "https://www.youtube.com/embed/ELDLUXSdqKI",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/ELDLUXSdqKI/0.jpg"
   }
 ]

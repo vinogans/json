@@ -178,5 +178,11 @@
     "url": "https://www.youtube.com/embed/3GaMrE2VnaQ",
     "type": "youtube",
     "img": "https://img.youtube.com/vi/3GaMrE2VnaQ/0.jpg"
+  },
+  {
+    "name": "اغاني تسعنيات قديمة",
+    "url": "https://www.youtube.com/embed/CfgziV2WyEM",
+    "type": "youtube",
+    "img": "https://img.youtube.com/vi/CfgziV2WyEM/0.jpg"
   }
 ]

@@ -202,5 +202,11 @@
     "url": "https://www.youtube.com/embed/6VwkWI8juNo",
     "type": "youtube",
     "img": "https://img.youtube.com/vi/6VwkWI8juNo/0.jpg"
+  },
+  {
+    "name": "diab fm",
+    "url": "https://stream.zeno.fm/rf64mx02qa0uv",
+    "type": "audio",
+    "img": "https://i.imgur.com/0jB3fZk.png"
   }
 ]

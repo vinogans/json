@@ -208,5 +208,11 @@
     "url": "https://www.youtube.com/embed/6VwkWI8juNo",
     "type": "youtube",
     "img": "https://img.youtube.com/vi/6VwkWI8juNo/0.jpg"
+  },
+  {
+    "name": "راديو الذكريات tiktok",
+    "url": "https://www.tiktok.com/@saif.elmogy/live",
+    "type": "audio",
+    "img": "https://i.imgur.com/0jB3fZk.png"
   }
 ]
